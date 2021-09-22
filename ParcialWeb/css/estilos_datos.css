@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+table{
+    table-layout: fixed;
+    margin: auto;
+    width: 350px;
+    box-shadow: 2px 2px 10px rgb(139, 138, 138);
+    border-radius: 5px;
+}
+
+.resultado{
+    padding-top: 5px;
+    margin-bottom: 8px;
+    font-size: 35px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    pointer-events: none;
+}
+
+th, td{
+    padding: 20px;
+    border-bottom: 1px solid #d9d9d9;
+    width: 140px;
+    height: 40px;
+    word-break: break-all;
+    color: #2389d5;
+}
+
+tbody tr {
+    background-color:#f7f7f7;
+    word-wrap: break-word;
+}
+
+.estilos{
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+
+.estilo_div {
+    padding-left: initial;
+    text-align: right;
+    width: 250px;
+    word-wrap: break-word;
+}
+
+.fotico{
+    background: #17a2b7;
+}
+
+.estilo_editado{
+    padding-left: initial;
+    text-align: center;
+    width: 300px;
+    word-wrap: break-word;
+    background: #17a2b7;
+}
+
+.fun {
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    word-wrap: break-word;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    pointer-events: none;
+}
+
+
+
+.ficha{
+    text-align: center;
+    word-wrap: break-word;
+    color: white;
+    font-size: 23px;
+}
+
+.fun2 {
+    background: #037dfc;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    word-wrap: break-word;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+.fun3 {
+    background: #1c9eb6;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    word-wrap: break-word;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+.fun4 {
+    background: #25a743;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    word-wrap: break-word;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+.fun5 {
+    background: #d7384e;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    word-wrap: break-word;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+svg{
+    width: 100%;
+    height: 100%;
+    color: black;
+}
+
